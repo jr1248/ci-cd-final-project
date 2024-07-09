@@ -3,7 +3,7 @@ kind: Task
 metadata:
   name: cleanup
 spec:
-  decription: This task will clean up a workspace by deleting all the files.
+  description: This task will clean up a workspace by deleting all the files.
   workspaces:
     - name: source 
   steps:
